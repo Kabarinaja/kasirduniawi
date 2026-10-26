@@ -1,0 +1,20 @@
+{
+  "appName": "KASIR DUNIA",
+  "domain": "https://kasirdunia.asia",
+  "price": 28500,
+  "priceFormatted": "Rp28.500",
+  "accessPeriod": "Akses Selamanya",
+  "isPaidApp": true,
+  "downloadDeliveryMethod": "WhatsApp Admin mengirimkan link download khusus setelah verifikasi pembayaran",
+  "whatsappNumber": "082379474173",
+  "whatsappInternational": "6282379474173",
+  "email": "kasirdunia.asia@gmail.com",
+  "creator": {
+    "name": "Logis Denis Prabowo",
+    "role": "CEO & Founder",
+    "badge": "[ Prompt Developer ]",
+    "bio": "Pengembang dan penggagas KASIR DUNIA yang bertujuan membantu usaha dan UMKM mengelola penjualan secara lebih praktis, mandiri, dan bebas biaya langganan bulanan."
+  },
+  "qrisReady": false,
+  "merchantName": "KASIR DUNIA"
+}

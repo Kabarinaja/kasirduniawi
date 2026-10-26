@@ -1,0 +1,6 @@
+{
+  "name": "KASIR DUNIA — Aplikasi Kasir Offline Android",
+  "description": "Website resmi aplikasi Android KASIR DUNIA. Aplikasi kasir toko & UMKM fokus offline selamanya dengan cetak struk dan laporan lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

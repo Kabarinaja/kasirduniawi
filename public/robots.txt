@@ -1,0 +1,5 @@
+# robots.txt for https://kasirdunia.asia
+User-agent: *
+Allow: /
+
+Sitemap: https://kasirdunia.asia/sitemap.xml
